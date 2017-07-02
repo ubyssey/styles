@@ -13,6 +13,14 @@ $color-border-gray-light: #e6e6e6;
 
 .guide {
 
+  > h1 {
+    // Structure
+    margin-bottom: 1rem;
+
+    // Text
+    font-size: 32px;
+  }
+
   > h2 {
     // Structure
     margin-bottom: 0.5rem;
