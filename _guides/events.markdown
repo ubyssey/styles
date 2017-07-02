@@ -76,7 +76,7 @@ An event box is a versatile component for displaying events across our digital p
 
 <div class="guide__preview">
   <div class="c-event">
-    <div class="c-event__image" style="background-image: url('{{ site.url }}/images/event.jpg')"></div>
+    <div class="c-event__image" style="background-image: url('{{ site.baseurl }}/images/event.jpg')"></div>
     <div class="c-event__meta">
       <div class="c-event-date">
         <div class="c-event-date__month">Jun</div>
