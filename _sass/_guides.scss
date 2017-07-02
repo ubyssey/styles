@@ -1,0 +1,58 @@
+$font-family-default: 'ub-lft-etica', Helvetica, Arial, sans-serif;
+
+$font-weight-semi-bold: 600;
+$font-weight-bold: 800;
+
+$color-accent-blue: #006fcc;
+
+$color-text-default: #2b2b2b;
+$color-text-gray: #565656;
+$color-text-gray-light: #8c8c8c;
+
+$color-border-gray-light: #e6e6e6;
+
+.guide {
+
+  > h2 {
+    // Structure
+    margin-bottom: 0.5rem;
+
+    // Text
+    font-weight: $font-weight-semi-bold;
+    font-size: 1.25rem;
+  }
+
+  > h3 {
+    // Structure
+    margin-bottom: 0.75rem;
+
+    // Text
+    text-transform: uppercase;
+    letter-spacing: 0.065em;
+    font-size: 0.75rem;
+    font-weight: 500;
+    color: #9c9c9c;
+  }
+
+  > p, pre {
+    // Structure
+    margin-bottom: 1rem;
+  }
+
+  pre {
+    // Structure
+    max-height: 320px;
+    overflow-y: scroll;
+  }
+}
+
+.guide__preview {
+  // Structure
+  margin-bottom: 1.5rem;
+
+  // Text
+  font-family: $font-family-default;
+  color: $color-text-default;
+}
+
+@import "guides/events";

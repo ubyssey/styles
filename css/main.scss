@@ -1,0 +1,32 @@
+---
+---
+@charset "utf-8";
+
+$font-family-default: "Inconsolata", "Consolas", monaco, monospace;
+$font-size-base:   15px;
+$font-size-large:  (18/15) + em;
+$font-weight-base: normal;
+$line-height-base: 1.5;
+
+$spacing-unit:     24px;
+
+$color-text:       #000;
+$color-text-light: #606060;
+$color-background: #fff;
+
+$content-width:    475px;
+
+$underline-colors: (
+  green: #3CF600,
+  yellow: #EDF13A,
+  cyan: #3ADDF1,
+  purple: #FF94E1,
+  red: #FF9B9B
+);
+
+@import
+  "bulma",
+  "base",
+  "fonts",
+  "syntax-highlighting",
+  "guides";
