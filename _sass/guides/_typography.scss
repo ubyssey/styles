@@ -1,0 +1,52 @@
+// Headlines
+.c-headline {
+  // Structure
+  max-width: 600px;
+
+  // Text
+  font-family: $font-family-serif;
+  font-weight: $font-weight-bold;
+  color: $color-text-black;
+  line-height: 1.2em;
+}
+
+h1.c-headline {
+  // Text
+  font-size: 36px;
+}
+
+h2.c-headline {
+  // Text
+  font-size: 28px;
+}
+
+h3.c-headline {
+  // Text
+  font-size: 26px;
+}
+
+h4.c-headline {
+  // Text
+  font-size: 18px;
+}
+
+// Body Text
+.c-article__content > p {
+  // Structure
+  margin-bottom: 1.4rem;
+  max-width: 585px;
+
+  // Text
+  font-family: 'Georgia';
+  font-size: 17px;
+  color: $color-text-default;
+  line-height: 1.625rem;
+}
+
+// Anchor
+
+.c-article__content > p a {
+  // Text
+  color: $color-accent-blue;
+  text-decoration: underline;
+}

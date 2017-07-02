@@ -24,9 +24,22 @@ $underline-colors: (
   red: #FF9B9B
 );
 
+nav {
+  border-bottom: 1px solid #dbdbdb;
+  margin-bottom: 0.5rem;
+  line-height: 3.25rem;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-weight: 600;
+  color: #5a5a5a;
+}
+
+.page-content {
+  padding: 1.5rem;
+}
+
 @import
   "bulma",
-  "base",
   "fonts",
   "syntax-highlighting",
   "guides";

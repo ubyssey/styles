@@ -7,7 +7,7 @@ slug: events
 
 ## Event Date Box
 
-Used inside event widgets and components. Displays the month and day in condensed form. Can be used with or without a border.
+The date box is used inside event widgets and components. It displays the month and day in condensed form. Can be used with or without a border.
 
 ### Preview
 

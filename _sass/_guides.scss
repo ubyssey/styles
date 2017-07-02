@@ -1,4 +1,5 @@
 $font-family-default: 'ub-lft-etica', Helvetica, Arial, sans-serif;
+$font-family-serif: 'ub-minion-pro', Georgia, serif;
 
 $font-weight-semi-bold: 600;
 $font-weight-bold: 800;
@@ -6,6 +7,7 @@ $font-weight-bold: 800;
 $color-accent-blue: #006fcc;
 
 $color-text-default: #2b2b2b;
+$color-text-black: #151515;
 $color-text-gray: #565656;
 $color-text-gray-light: #8c8c8c;
 
@@ -63,4 +65,6 @@ $color-border-gray-light: #e6e6e6;
   color: $color-text-default;
 }
 
-@import "guides/events";
+@import
+  "guides/events",
+  "guides/typography";
