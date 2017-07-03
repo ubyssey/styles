@@ -13,7 +13,7 @@ $color-text-gray-light: #8c8c8c;
 
 $color-border-gray-light: #e6e6e6;
 
-.content {
+.page-content {
   > h1 {
     // Structure
     margin-bottom: 1rem;
@@ -47,7 +47,7 @@ $color-border-gray-light: #e6e6e6;
     a {
       // Text
       color: inherit;
-      
+
       &:hover {
         // Text
         text-decoration: underline;
