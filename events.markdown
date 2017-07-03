@@ -12,7 +12,7 @@ The date box is used inside event widgets and components. It displays the month 
 
 ### Preview
 
-<div class="guide__preview">
+<div class="preview">
   <div class="c-event-date c-event-date--bordered">
     <div class="c-event-date__month">Jun</div>
     <div class="c-event-date__day">26</div>
@@ -75,7 +75,7 @@ An event box is a versatile component for displaying events across our digital p
 
 ### Preview
 
-<div class="guide__preview">
+<div class="preview">
   <div class="c-event">
     <div class="c-event__image" style="background-image: url('{{ site.baseurl }}/images/event.jpg')"></div>
     <div class="c-event__meta">

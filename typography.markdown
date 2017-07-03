@@ -62,25 +62,25 @@ Georgia is used for article body text due to its high readability and consistenc
 
 ### Headline 1
 
-<div class="guide__preview">
+<div class="preview">
 <h1 class="c-headline c-headline--1">New housing program approved as a strategy to recruit and retain staff and faculty</h1>
 </div>
 
 ### Headline 2
 
-<div class="guide__preview">
+<div class="preview">
 <h2 class="c-headline c-headline--2">New housing program approved as a strategy to recruit and retain staff and faculty</h2>
 </div>
 
 ### Headline 3
 
-<div class="guide__preview">
+<div class="preview">
 <h3 class="c-headline c-headline--3">New housing program approved as a strategy to recruit and retain staff and faculty</h3>
 </div>
 
 ### Headline 4
 
-<div class="guide__preview">
+<div class="preview">
 <h4 class="c-headline c-headline--4">New housing program approved as a strategy to recruit and retain staff and faculty</h4>
 </div>
 
@@ -109,7 +109,7 @@ Article body text is `Georgia/17px` with off-black colouring and a medium line h
 
 ### Sample
 
-<div class="guide__preview c-article__content">
+<div class="preview c-article__content">
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam egestas viverra massa, tincidunt gravida diam laoreet ullamcorper. Vestibulum sed pharetra neque. Nunc sagittis enim nec sapien euismod, eget posuere mi cursus. Nam a lorem ligula. Maecenas fringilla elementum dui. Vivamus a rutrum metus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Duis eget eros vel neque ornare pharetra a vitae lorem. Aliquam luctus dignissim nulla vel varius.</p><p>Etiam vitae enim ex. Vivamus commodo interdum elit, a eleifend nibh ultricies a. Sed bibendum porttitor felis, vitae dictum odio. Duis a rhoncus ex. Suspendisse nisi neque, aliquet sit amet aliquet sed, finibus eu nibh. Proin ornare venenatis lobortis. Aliquam dignissim viverra ex id sodales. Pellentesque non est id est facilisis feugiat quis eu urna. Proin commodo nunc pretium bibendum tincidunt.</p>
 </div>
 
@@ -137,7 +137,7 @@ Anchor links are underlined and coloured with *Ubyssey* blue.
 
 ### Sample
 
-<div class="guide__preview c-article__content">
+<div class="preview c-article__content">
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam egestas viverra massa, tincidunt gravida diam laoreet ullamcorper. Vestibulum sed pharetra neque. Nunc sagittis enim nec sapien euismod, eget posuere mi cursus. Nam a lorem ligula. <a>Maecenas fringilla elementum dui. Vivamus a rutrum metus</a>. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Duis eget eros vel neque ornare pharetra a vitae lorem. Aliquam luctus dignissim nulla vel varius.</p>
 </div>
 
