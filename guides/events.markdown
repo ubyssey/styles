@@ -1,6 +1,7 @@
 ---
 title: Events
 slug: events
+layout: default
 ---
 
 # Events

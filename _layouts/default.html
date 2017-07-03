@@ -9,7 +9,14 @@
 
     <div class="page-content">
       <div class="container">
-        {{ content }}
+        <div class="columns">
+          <div class="column is-one-quarter">
+            {% include navigation.html %}
+          </div>
+          <div class="column content">
+            {{ content }}
+          </div>
+        </div>
       </div>
     </div>
 

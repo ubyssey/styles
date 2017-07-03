@@ -13,10 +13,7 @@ $color-text-gray-light: #8c8c8c;
 
 $color-border-gray-light: #e6e6e6;
 
-.guide {
-  // Structure
-  margin-bottom: 3rem;
-
+.content {
   > h1 {
     // Structure
     margin-bottom: 1rem;
@@ -46,15 +43,21 @@ $color-border-gray-light: #e6e6e6;
     color: #9c9c9c;
   }
 
+  > h1, > h2, > h3 {
+    a {
+      // Text
+      color: inherit;
+      
+      &:hover {
+        // Text
+        text-decoration: underline;
+      }
+    }
+  }
+
   > p, pre {
     // Structure
     margin-bottom: 1rem;
-  }
-
-  pre {
-    // Structure
-    max-height: 320px;
-    overflow-y: scroll;
   }
 }
 

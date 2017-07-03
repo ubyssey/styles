@@ -1,6 +1,7 @@
 ---
 title: Typography
 slug: typography
+layout: default
 ---
 
 # Typography
